@@ -1,5 +1,6 @@
 ``CONFIGURAR IMPRESORA HIOPOS LITE Y GO``
 
-![image.png](/.attachments/image-e35a0ba2-2233-4498-ada7-e1f6e03c51bc.png)
+![image.png](/.attachments/image-f9dc56a1-635a-434c-87ce-276a8e7a3e73.png)
 
 Seleccionar conectado al terminal
+
