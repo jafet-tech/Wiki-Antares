@@ -4,3 +4,8 @@
 
 Seleccionar conectado al terminal
 
+``FORMATO PARA DOCUMENTOS``
+
+![image.png](/.attachments/image-cf8b1e61-0b13-4c9b-a7b7-a45af6957677.png)
+
+
