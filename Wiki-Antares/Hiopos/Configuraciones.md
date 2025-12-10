@@ -1,6 +1,3 @@
-#Configuraciones iniciales
-![tpv_lite_right_he.png](/.attachments/tpv_lite_right_he-2bb52a51-1d0f-4ffb-8473-a8487ee7817e.png)
-
 
 ```
 MODULO FE
