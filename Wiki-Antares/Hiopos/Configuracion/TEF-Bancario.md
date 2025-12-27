@@ -61,3 +61,8 @@ BANESCO
 
 ![==image_0==.png](/.attachments/==image_0==-b871ec04-0cff-4b12-8ada-8bbfbfaf3fdf.png) 
 
+Para crear pago por Tarjeta Clave
+
+Debe crear el medio de pago “clave” en el campo forma de pago Hiopos, y en representación BANESCO poner venta y dar click en el icono  “+” para que se agregue;
+ 
+El medio de pago debe escribirse exactamente como esta escrito en Hiopos.
